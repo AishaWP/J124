@@ -7,6 +7,7 @@ Intro to Data  Journalism Markdown practice resume
 1. Bilingual
 2. Climate Change Policymaking Experitse 
 3. Adobe Audition
+
 # Employer| # Job Description
 ----------|--------------------
 San Diego 350 Youth Organizer| * Youth Climate ACtion Summit 2019 * Youth Climate Action Program * Event with Bill McKibben
