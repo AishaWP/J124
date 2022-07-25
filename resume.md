@@ -14,3 +14,4 @@ San Diego 350 Youth Organizer| * Youth Climate ACtion Summit 2019 * Youth Climat
 Social Media Intern Climate Break Podcast | * Create social media graphics * Boost followers 
 -------|---------
 Latinx and Environment Fellow | * Researched intersection of climate change and latinos and labor * created podcast * created policy brief
+-------|----------
