@@ -2,7 +2,8 @@
 Intro to Data  Journalism Markdown practice resume
 # Aisha Wallace-Palomares
 ## I'm an activist, a researcher, and a journalist. 
-![GitHub Logo](/images/logo.png)
+![ClimateRally-SproulPlaza2019 CAGPhotos-1-30 (1)](https://user-images.githubusercontent.com/109619683/180722288-6a2debac-0d33-4103-afc3-7a3897dd1414.jpg)
+
 ## Skills
 1. Bilingual
 2. Climate Change Policymaking Experitse 
