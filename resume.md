@@ -12,5 +12,5 @@ Intro to Data  Journalism Markdown practice resume
 |# Employer| Job Description|
 |----------|--------------------|
 |San Diego 350 Youth Organizer| <ul><li>Climate Action Summit 2019</li> <ul><li>Youth Youth Climate Action Program</li>  <ul><li>Event with Bill McKibben</li>|
-|Social Media Intern Climate Break Podcast | * Create social media graphics * Boost followers| 
-|Latinx and Environment Fellow | * Researched intersection of climate change and latinos and labor * created podcast * created policy brief|
+|Social Media Intern Climate Break Podcast | <ul><li>Create social media graphics</li> <ul><li>Boost followers</li>| 
+|Latinx and Environment Fellow | <ul><li>Researched intersection of climate change and latinos and labor</li> <ul><li>created podcast</li> <ul><li>created policy brief</li>|
